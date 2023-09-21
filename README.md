@@ -7,3 +7,6 @@ my.note: "Is superior to almost all other Parts retail stores, & distribution mo
 https://www.google.com/search?q=NAPA+AutoCare
 - https://www.napaonline.com/en/auto-care
 - https://member.napaautocare.com/Sign-In
+
+# Accounting:
+https://www.genpt.com/annual-reports
